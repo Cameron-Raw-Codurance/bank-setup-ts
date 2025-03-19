@@ -1,0 +1,16 @@
+{
+  "name": "bank_kata_setup",
+  "version": "1.0.0",
+  "description": "A starting point for the bank kata",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Cameron Raw",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6"
+  }
+}
